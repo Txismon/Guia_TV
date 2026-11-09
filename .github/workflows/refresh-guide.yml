@@ -1,0 +1,73 @@
+name: Refrescar guia
+
+on:
+  schedule:
+    # Dos veces al dia, en un minuto poco habitual: las ejecuciones a en punto se
+    # retrasan mucho cuando GitHub va cargado. La guia cubre tres dias, asi que
+    # perder una ejecucion no se nota.
+    - cron: '17 5,17 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - channels.xml
+      - check-guide.js
+      - .github/workflows/refresh-guide.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-guide
+  cancel-in-progress: false
+
+jobs:
+  refrescar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Descargar el grabber de iptv-org
+        run: git clone --depth 1 https://github.com/iptv-org/epg.git epg
+
+      - name: Instalar las dependencias del grabber
+        working-directory: epg
+        env:
+          HUSKY: '0'
+        run: npm ci --no-audit --no-fund
+
+      - name: Capturar la guia
+        working-directory: epg
+        run: >
+          npm run grab --
+          --channels=../channels.xml
+          --output=../guide.xml
+          --gzip
+          --days=3
+          --maxConnections=5
+
+      # Si falla, el trabajo se detiene aqui y la guia anterior sigue publicada.
+      - name: Comprobar la guia
+        run: node check-guide.js guide.xml.gz 12 50
+
+      # Se publica en una rama que se rehace desde cero cada vez, con un unico
+      # commit. Asi el repositorio no crece: una guia comprimida pesa unos 340 KB
+      # y con un commit nuevo cada dia serian mas de 100 MB al ano.
+      - name: Publicar en la rama guide
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir publicar
+          cp guide.xml.gz publicar/
+          cd publicar
+          git init -b guide
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add guide.xml.gz
+          git commit -m "Guia $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" guide

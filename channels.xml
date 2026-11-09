@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="movistarplus.es" lang="es" xmltv_id="24Horas.es@SD" site_id="24H" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H">24 Horas</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Actualidad360.es@SD" site_id="Plex/es#643054b1fc3be59477853717-682510ec0f741b077c360512">Actualidad 360</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Anaylos7.us@Spain" site_id="PlutoTV/es#5f1acce7f17797000718f9be">Ana y los 7</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Andromeda.us@Spain" site_id="Plex/es#643054b1fc3be59477853717-656236cc5dbccec83a87b647">Andromeda</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Antena3.es@National" site_id="A3" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3">Antena 3</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="Antena3Internacional.es@SD" site_id="antena_3">Canal Antena 3</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="ArchivosForenses.us@Spain" site_id="PlutoTV/es#5f984f4a09e92d0007d74647">Archivos Forenses</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AXNMovies.es@SD" site_id="SET" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SET">AXN Movies</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="AXNWhite.us@SD" site_id="512">AXN Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AzCorazon.mx@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c">Corazón</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="BBCDrama.uk@Spain" site_id="PlutoTV/es#60dafb9a0df1ba000758d37b">BBC Series</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="BobEsponja.us@Spain" site_id="PlutoTV/es#5f1aca0b4e448e00075e7c5e">Bob Esponja</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Boing.es@SD" site_id="BOING" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING">Boing</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="CanalParlamento.es@SD" site_id="604">Canal Parlamento</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="CanalSurAndalucia.es@SD" site_id="ANTV" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANTV">Canal Sur Andalucía</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="CazadordeHomicidas.us@Spain" site_id="PlutoTV/es#60ed5fb9c4716d0007d180c5">Cazador de Homicidas</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="CineFriki.es@SD" site_id="Plex/es#643054b1fc3be59477853717-6490e17c18a55242eea95991">Cine Friki</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="CineWestern.es@SD" site_id="Plex/es#643054b1fc3be59477853717-66ea174c9502c5778b828d47">Cine Western</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Clan.es@SD" site_id="505">Clan TVE</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="CMMTV.es@SD" site_id="296">Castilla - La Mancha TV</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="ComediaalobestiadePlutoTV.de@ES" site_id="PlutoTV/es#68de3db35fc0afe85de0b843">Comedia a lo bestia de Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="CrimenHistoria.es@SD" site_id="Plex/es#643054b1fc3be59477853717-67200026769d5ec4bf51d63e">Crimen Y Historia</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="CurroJimenez.us@Spain" site_id="PlutoTV/es#5f1acd36779de70007a680d1">Curro Jiménez</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="ElComisario.us@Spain" site_id="PlutoTV/es#60c343007bcabe0007242aa6">El Comisario</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Elencantadordeperros.us@Spain" site_id="PlutoTV/es#60e45687313c5f0007bc8e94">El encantador de perros</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="ElMueble.es@SD" site_id="Plex/es#643054b1fc3be59477853717-693cb1af58076a970420f591">El Mueble</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ElToroTV.es@SD" site_id="INTECO" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTECO">El Toro TV</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Empenosalobestia.us@Spain" site_id="PlutoTV/es#60218baa464ef900073168c1">Empeños a lo bestia</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Enelpuntodemira.us@Spain" site_id="PlutoTV/es#61922be835f3910007fc58f6">En el punto de mira</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="ETB1.es@SD" site_id="33">ETB 1</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ETB1On.es@HD" site_id="ETB3" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB3">etb1ON</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ETB2.es@SD" site_id="etb_2">Canal ETB 2</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ETB2On.es@HD" site_id="ETB" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB">etb2ON</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="Eurosport1.fr@Spain" site_id="eurosport_1_espana">Canal Eurosport 1 (España)</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="Eurosport2.fr@Spain" site_id="eurosport_2_espana">Canal Eurosport 2 (España)</channel>
+  <channel site="programacion-tv.elpais.com" lang="fr" xmltv_id="France24.fr@Spanish" site_id="608">France 24</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="GaliciaTVEuropa.es@SD" site_id="TVG" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVG">TVG Europa</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Historia.es@SD" site_id="148">Historia</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="HistoriaYVida.es@SD" site_id="Plex/es#643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a">Historia Y Vida</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="La1.es@SD" site_id="TVE" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE">LA 1</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="La2.es@SD" site_id="LA2" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2">LA 2</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="LosarchivosdelFBI.us@Spain" site_id="PlutoTV/es#5f1acbed25948a0007ffbe65">Los archivos del FBI</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LosAsesinatosdeMidsomer.us@Spain" site_id="Plex/us#5e20b730f2f8d5003d739db7-682511d9ae4546e02a6ba4f9">Los Asesinatos de Midsomer</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="MiExtranaObsesion.us@Spain" site_id="PlutoTV/es#60e4573c9f963e00077ecf25">Mi Extraña Obsesión</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="MrBeanAnimated.uk@ES" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d">Mr. Bean</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="MTVEmbarazadaalos16.us@Spain" site_id="PlutoTV/es#5f98537a5a4341000733aefe">MTV Embarazada a los 16</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="MTVOriginals.us@Spain" site_id="PlutoTV/es#5f1aadf373bed3000794d1d7">MTV Originals</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="MyTimeMovieNetwork.es@SD" site_id="Plex/es#643054b1fc3be59477853717-64487696af92c31f4a190bc4">MyTime Movie Network</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="NatureTime.ca@ES" site_id="PlutoTV/es#60dd6b1da79e4d0007309455">Nature Time</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="NatureTime.ca@LATAM" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-6970fa30bde579fb712623ff">Nature Time</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="NegociosTV.es@SD" site_id="NEGOTV" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEGOTV">Negocios TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OnePiece.us@SD" site_id="PlutoTV/us#5f7790b3ed0c88000720b241">One Piece</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVAnimales.de@ES" site_id="PlutoTV/es#600ae6a78d801e0007117d21">Pluto TV Animales</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVCatastrofes.de@ES" site_id="PlutoTV/es#645a309c5a0cd5000873f609">Pluto TV Catástrofes</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVCineComedia.de@ES" site_id="PlutoTV/es#5f1ac8099c49f600076579b2">Pluto TV Cine Comedia</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVCinedeautor.de@ES" site_id="PlutoTV/es#60cc807324d60a0007708dc8">Pluto TV Cine de autor</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVCineRomantico.de@ES" site_id="PlutoTV/es#5f1ac9a2d3611d0007a844bb">Pluto TV Cine Romántico</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVCocina.de@ES" site_id="PlutoTV/es#5f1acdaa8ba90f0007d5e760">Pluto TV Cocina</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVComediamadeinSpain.de@ES" site_id="PlutoTV/es#5f1abce155a03d0007718834">Pluto TV Comedia made in Spain</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVComediasRomanticas.de@ES" site_id="PlutoTV/es#655b5d865812e80008843bd1">Pluto TV Comedias Románticas</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVDiseno.de@ES" site_id="PlutoTV/es#64db2e0835425100080f2f5a">Pluto TV Diseño</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVGasolina.de@ES" site_id="PlutoTV/es#65bd0f53dc10a40008e68b96">Pluto TV Gasolina</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVGoreSlasher.de@ES" site_id="PlutoTV/es#66b0dfa1d512590008bfa7fd">Pluto TV Gore &amp;amp; Slasher</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVHistoria.de@ES" site_id="PlutoTV/es#61cd7b49543066000713b620">Pluto TV Historia</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVImpacto.de@ES" site_id="PlutoTV/es#68adc697116b783a33f99e6c">Pluto TV Impacto</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVInvasionAlien.de@ES" site_id="PlutoTV/es#654a35ce346f420008d5c36e">Pluto TV Invasión Alien</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVKDrama.de@ES" site_id="PlutoTV/es#6475bfec536e0c0008858e9f">Pluto TV K-Drama</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVKidsClassics.de@ES" site_id="PlutoTV/es#609e7e423e9173000706a681">Pluto TV Kids Classics</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVMotor.de@ES" site_id="PlutoTV/es#6080345ebb49b90007ce0baf">Pluto TV Motor</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVPsycho.de@ES" site_id="PlutoTV/es#65ce480a78df2200131c597b">Pluto TV Psycho</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVSeriescriminales.de@ES" site_id="PlutoTV/es#65cf6ab58145cb0008129ca8">Pluto TV Series criminales</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVTeen.de@ES" site_id="PlutoTV/es#63eb944dc111bc0008fe7021">Pluto TV Teen</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVTelenovelasClasicas.de@ES" site_id="PlutoTV/es#662a69daa0a74e00087a1c72">Pluto TV Telenovelas Clásicas</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVWestern.de@ES" site_id="PlutoTV/es#6385e82900ab2e000768a058">Pluto TV Western</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVZombies.de@ES" site_id="PlutoTV/es#65786888b228b7000843ad9a">Pluto TV Zombies</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="RealMadridTV.es@SD" site_id="REALM" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/REALM">Real Madrid TV</channel>
+  <channel site="i.mjh.nz" lang="de" xmltv_id="RedBullTV.at@SD" site_id="PlutoTV/de#5e7cb84a172a0f0007da69e4">Red Bull TV</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Rugrats.us@Spain" site_id="PlutoTV/es#610c09219fc0430007a3fce6">Rugrats</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="SolMusica.es@SD" site_id="171">Buen viaje</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="SundanceTV.es@SD" site_id="699">Sundance Channel</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="SX3.es@SD" site_id="541">Super 3</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Taroteame.es@SD" site_id="826">Taroteame</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Teledeporte.es@SD" site_id="TDEP" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TDEP">Teledeporte</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="Telemadrid.es@SD" site_id="telemadrid">Canal TeleMadrid</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="TelevisionCanaria.es@SD" site_id="41">TelevisiónCanaria</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="TodoNovelas.es@SD" site_id="Plex/es#643054b1fc3be59477853717-6490e59918a55242eea95995">Todo Novelas</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Trece.es@SD" site_id="13TV" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV">TRECE</channel>
+  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="TV3.es@SD" site_id="43">TV3</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="TV3CAT.es@SD" site_id="TVC" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVC">TV3 Cat</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Vayasemanita.us@Spain" site_id="PlutoTV/es#5f28009b150b2500077766b8">Vaya semanita</channel>
+</channels>
